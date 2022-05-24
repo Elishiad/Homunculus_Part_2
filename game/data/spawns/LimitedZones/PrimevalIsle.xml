@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="PrimevalIsle">
+		<group>
+			<!-- NPC -->
+			<npc id="34526" x="9752" y="-21720" z="-3651" heading="27297" respawnTime="15sec" /> <!-- Expedition Teleporter -->
+			<npc id="34526" x="21912" y="-6168" z="-1985" heading="38859" respawnTime="15sec" /> <!-- Expedition Teleporter -->
+			<npc id="34526" x="8200" y="-8520" z="-3585" heading="26799" respawnTime="15sec" /> <!-- Expedition Teleporter -->
+			<npc id="34526" x="21736" y="-20856" z="-3047" heading="26570" respawnTime="15sec" /> <!-- Expedition Teleporter -->
+			<npc id="34527" x="9608" y="-21544" z="-3620" heading="25330" respawnTime="15sec" /> <!-- Expedition Guard -->
+			<npc id="34527" x="9320" y="-21976" z="-3661" heading="17193" respawnTime="15sec" /> <!-- Expedition Guard -->
+			<npc id="34527" x="8152" y="-8360" z="-3604" heading="19420" respawnTime="15sec" /> <!-- Expedition Guard -->
+			<npc id="34527" x="7928" y="-8568" z="-3606" heading="26973" respawnTime="15sec" /> <!-- Expedition Guard -->
+			<npc id="34527" x="21688" y="-20696" z="-3057" heading="25124" respawnTime="15sec" /> <!-- Expedition Guard -->
+			<npc id="34527" x="21544" y="-20952" z="-3062" heading="26791" respawnTime="15sec" /> <!-- Expedition Guard -->
+			<npc id="19723" x="8232" y="-8632" z="-3573" heading="27435" respawnTime="15sec" /> <!-- Common Decoration - Campfire -->
+			<npc id="19723" x="21784" y="-20792" z="-3046" heading="32388" respawnTime="15sec" /> <!-- Common Decoration - Campfire -->
+			<npc id="19723" x="22056" y="-6120" z="-1982" heading="21161" respawnTime="15sec" /> <!-- Common Decoration - Campfire -->
+			<!-- MONSTER -->
+
+			<npc id="24441" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="7962" y="-19255" z="-3856" heading="55787" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="4434" y="-20539" z="-3800" heading="16383" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="5659" y="-18417" z="-3920" heading="27931" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="2972" y="-18573" z="-3760" heading="29017" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="4197" y="-16451" z="-3912" heading="17863" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="7536" y="-16842" z="-3840" heading="49220" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="5678" y="-14499" z="-3904" heading="47449" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="2779" y="-14230" z="-3720" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="6103" y="-12087" z="-3832" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="2864" y="-11782" z="-3864" heading="21125" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="7192" y="-9756" z="-3840" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="4849" y="-8957" z="-3792" heading="28153" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="2383" y="-8714" z="-3760" heading="41953" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="7287" y="-7307" z="-3808" heading="57601" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="4214" y="-6590" z="-3720" heading="13790" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="20447" y="-21002" z="-3280" heading="28899" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="18440" y="-19597" z="-3488" heading="16784" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="20661" y="-18561" z="-3464" heading="9463" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="18653" y="-17157" z="-3392" heading="48871" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="22537" y="-16987" z="-3192" heading="48916" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="18866" y="-14717" z="-3192" heading="59457" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="21316" y="-14717" z="-3272" heading="2068" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="20785" y="-12326" z="-2984" heading="31384" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="17641" y="-12596" z="-3312" heading="29596" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="19588" y="-9396" z="-2964" heading="39640" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="16969" y="-9370" z="-3400" heading="48141" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="14452" y="-8932" z="-3448" heading="7146" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="16433" y="-6979" z="-3328" heading="43073" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="15438" y="-11308" z="-3448" heading="48802" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="15609" y="-13967" z="-3376" heading="20549" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="13460" y="-12789" z="-3264" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="16357" y="-16301" z="-3416" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="16143" y="-18742" z="-3400" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="13515" y="-15239" z="-3232" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="13949" y="-17651" z="-3272" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="22950" y="-20253" z="-2872" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="25213" y="-19316" z="-2816" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="27604" y="-18786" z="-2672" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="24985" y="-16876" z="-2864" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="27377" y="-16346" z="-2880" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="23766" y="-14750" z="-3192" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="8128" y="-14465" z="-3896" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="21948" y="-10056" z="-3000" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="24527" y="-9898" z="-2656" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="24820" y="-12415" z="-2728" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24441" x="27270" y="-12415" z="-2560" respawnTime="15sec" /> <!-- Tyrannosaurus -->
+			<npc id="24437" x="7287" y="-21326" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6962" y="-21022" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6612" y="-21022" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="7837" y="-19508" z="-3856" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="8262" y="-19638" z="-3856" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="4984" y="-20489" z="-3800" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="4834" y="-20489" z="-3800" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5959" y="-17933" z="-3920" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5459" y="-17933" z="-3920" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5359" y="-18367" z="-3920" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3522" y="-18523" z="-3760" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3272" y="-18089" z="-3760" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3197" y="-18826" z="-3760" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3747" y="-16401" z="-3912" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3997" y="-16834" z="-3912" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="4422" y="-16704" z="-3912" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="7761" y="-16488" z="-3840" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="7411" y="-17095" z="-3840" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5478" y="-14882" z="-3904" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5978" y="-14882" z="-3904" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3329" y="-14180" z="-3720" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3004" y="-13876" z="-3720" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="2654" y="-13876" z="-3720" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5978" y="-12340" z="-3832" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6403" y="-12470" z="-3832" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3414" y="-11732" z="-3864" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="3264" y="-11732" z="-3864" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="7492" y="-9272" z="-3840" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6992" y="-9272" z="-3840" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6892" y="-9706" z="-3840" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5399" y="-8907" z="-3792" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="5149" y="-8473" z="-3792" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="1933" y="-8664" z="-3760" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="2183" y="-9097" z="-3760" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="2608" y="-8967" z="-3760" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="7512" y="-6953" z="-3808" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="7162" y="-7560" z="-3808" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="4014" y="-6973" z="-3720" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="4514" y="-6973" z="-3720" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="20997" y="-20952" z="-3304" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="20672" y="-20648" z="-3304" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="20322" y="-20648" z="-3392" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18315" y="-19850" z="-3488" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18740" y="-19980" z="-3488" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="21211" y="-18511" z="-3464" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="20361" y="-18511" z="-3464" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="21061" y="-18511" z="-3464" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18453" y="-16673" z="-3392" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18353" y="-17107" z="-3392" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="23087" y="-16937" z="-3192" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="22837" y="-16503" z="-3192" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="22937" y="-16937" z="-3192" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18416" y="-14667" z="-3192" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18666" y="-15100" z="-3192" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="19091" y="-14970" z="-3192" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="21541" y="-14363" z="-3272" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="21191" y="-14970" z="-3272" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="20585" y="-12709" z="-2984" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="21085" y="-12709" z="-2984" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="18191" y="-12546" z="-3312" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="17516" y="-12242" z="-3312" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="19463" y="-9649" z="-2964" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="19888" y="-9779" z="-2964" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="17519" y="-9320" z="-3400" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="17369" y="-9320" z="-3400" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+			<npc id="24437" x="6737" y="-21376" z="-3696" heading="42715" respawnTime="15sec" /> <!-- tz_iop_ornitho -->
+		</group>
+	</spawn>
+</list>
