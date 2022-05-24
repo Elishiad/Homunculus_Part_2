@@ -1,4 +1,4 @@
-L2J-Mobius Homunculus
+Полезные ссылки
 Client (password L2jMobius): https://drive.google.com/u/0/uc?id=1G87RxWTnow688YGO3oXshILzsHzKT81u&export=download
 System: https://mega.nz/file/xl1njaTY#BdVHadGs9bTDyrDE3QgBGvAqkmqSqPtn8hLpcCil1Fs
 
