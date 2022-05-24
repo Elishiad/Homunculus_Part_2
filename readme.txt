@@ -8,49 +8,49 @@ Eclipse: https://www.mediafire.com/file/j208qw3s7zwx7c7/eclipse-java-2021-12-R-w
 Geodata: http://www.mediafire.com/file/muw8zo6v7cl7ujt/L2J_Mobius_08.2_Homunculus_Geodata.zip
 
 
-Working features...
+Рабочие характеристики:
 
-Before Goddess of Destruction:
--Fantasy Isle Parade
--Pailaka Injured Dragon
--All Seven Sign Quests
--Imperial Tomb
--Gracia Area
--Kamaloka
--Castle Dungeons
--Fortress Dungeons
--Prime Shop
+До Goddess of Destruction
+-Парад на острове грез
+-Пайлака раненый дракон
+-Все квесты семи печатей
+-Гробница императора
+-Грация
+-Камалока
+-Подземелья замка
+-Подземелья крепости
+-Игровой магазин
 
 Goddess of Destruction:
--New Talking Island
--Ancient City Arcan
--Bloody Swampland
+-Новый Говорящий остров
+-Древний город Аркан
+-Кровавые топи
 -Fairy Settlement
--Garden of Genesis
--Guillotine Fortress
--Orbis Temple
--Kartia
--Fortuna
+-Сады бытия
+-Крепость Гильотина
+-Храм Орбиса
+-Картия
+-Фортуна
 -Nursery
--Altar of Shilen
--Kimerian
--Istina
--Octavis
--Spezion
--Tauti
+-Алтарь Шилен
+-Кимериан
+-Истхина
+-Октавис
+-Спасия
+-Таути
 -Teredor
--Trasken
--Lindvior
--Appearance stones
--Beauty Shop
--Mentoring
--Goddess class changes
--Harnak Underground Ruins
--Sayune Jump System
--Agent of Chaos
--Attribute Crystals
--Ability Points
--Training Camp
+-Траскен
+-Линдвиор
+-Камни обработки внешнего вида
+-Салон красоты
+-Наствничество
+-4 смена профессии
+-Подземные руины Харнака
+-Рамуны
+-Агент хаоса
+-Кристаллы аттрибута
+-Очки способностей
+-Тренировочный лагерь
 
 Ertheia:
 -Ertheia Race
