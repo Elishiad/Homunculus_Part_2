@@ -11,27 +11,26 @@
 	<!-- <item auctionItemId="1" itemId="10485" itemCount="1" auctionInitBid="100000" auctionLength="60" /> -->
 	<!-- </instance> -->
 	<!-- <instance id="34328" day_of_week="2" hour_of_day="09">Giran, Tuesday, 09:00 - 10:00 -->
-	<instance id="34328" day_of_week="6" hour_of_day="17"> <!-- Giran, Saturday, 17:00 - 18:00 -->
-		<item auctionItemId="1" itemId="46495" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Pantheon's Soul Crystal - Stage 7 -->
-		<item auctionItemId="2" itemId="46510" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Lionel's Soul Crystal - Stage 7 -->
-		<item auctionItemId="3" itemId="46450" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Kain's Soul Crystal - Stage 7 -->
-		<item auctionItemId="4" itemId="46465" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Mermoden's Soul Crystal - Stage 7 -->
-		<item auctionItemId="5" itemId="46480" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Leona's Soul Crystal - Stage 7 -->
-		<item auctionItemId="6" itemId="46466" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Mermoden's Soul Crystal - Stage 8 -->
-		<item auctionItemId="7" itemId="46481" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Leona's Soul Crystal - Stage 8 -->
-		<item auctionItemId="8" itemId="46496" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Pantheon's Soul Crystal - Stage 8 -->
-		<item auctionItemId="9" itemId="46511" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Lionel's Soul Crystal - Stage 8 -->
-		<item auctionItemId="10" itemId="46451" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Kain's Soul Crystal - Stage 8 -->
-		<item auctionItemId="11" itemId="48941" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- +8 Angel's Necklace Box -->
-		<item auctionItemId="12" itemId="48942" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- +8 Angel's Earring Box -->
-		<item auctionItemId="13" itemId="47214" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Ring of Creation -->
-		<item auctionItemId="14" itemId="36254" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Queen Ant's Soul Ring -->
-		<item auctionItemId="15" itemId="17623" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Earth Wyrm Heart Ring -->
-		<item auctionItemId="16" itemId="19464" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Blessed Valakas' Necklace -->
-		<item auctionItemId="17" itemId="19463" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Blessed Antharas' Earring -->
-		<item auctionItemId="18" itemId="35570" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Tauti's Ring -->
-		<item auctionItemId="19" itemId="36946" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Lindvior's Earring -->
-		<item auctionItemId="20" itemId="34777" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Scroll of Blessing: (R99-grade) -->
-		<item auctionItemId="21" itemId="47886" itemCount="1" auctionInitBid="100000000" auctionLength="60" /> <!-- Reinforced Shadow Ingot -->
+	<instance id="34328" day_of_week="2" hour_of_day="21"> <!-- Giran, Tuesday, 21:00 - 22:00 -->
+		<item auctionItemId="1" itemId="36946" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- earring_of_lind -->
+		<item auctionItemId="2" itemId="46466" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- ensoul_stone_m_08 -->
+		<item auctionItemId="3" itemId="46451" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- ensoul_stone_p_08 -->
+		<item auctionItemId="4" itemId="39573" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- sealed_punishment_talisman -->
+		<item auctionItemId="5" itemId="35568" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- R99_weapon_upgrade_jewel_pve -->
+		<item auctionItemId="6" itemId="37717" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- sevensign_talisman -->
+		<item auctionItemId="7" itemId="19464" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- blessed_necklace_of_valakas -->
+		<item auctionItemId="8" itemId="46481" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- ensoul_stone_pp_08 -->
+		<item auctionItemId="9" itemId="48941" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- new_necklace_of_hero_8_box -->
+		<item auctionItemId="10" itemId="80931" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- star_agathion_cube_2 -->
+		<item auctionItemId="11" itemId="35566" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- R99_weapon_upgrade_jewel_pvp -->
+		<item auctionItemId="12" itemId="46496" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- ensoul_stone_mm_08 -->
+		<item auctionItemId="13" itemId="19463" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- blessed_earring_of_antaras -->
+		<item auctionItemId="14" itemId="46511" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- ensoul_stone_pm_08 -->
+		<item auctionItemId="15" itemId="48576" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- lbracelet_charm_m1_s3_lv5 -->
+		<item auctionItemId="16" itemId="47214" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- ring_of_helios -->
+		<item auctionItemId="17" itemId="39418" itemCount="10" auctionInitBid="10000000" auctionLength="60" /> <!-- lv5_unique_dye_int_cha -->
+		<item auctionItemId="18" itemId="47219" itemCount="100" auctionInitBid="10000000" auctionLength="60" /> <!-- ring_of_helios_enchant -->
+		<item auctionItemId="19" itemId="39415" itemCount="10" auctionInitBid="10000000" auctionLength="60" /> <!-- lv5_unique_dye_str_cha -->
+		<item auctionItemId="20" itemId="48942" itemCount="1" auctionInitBid="10000000" auctionLength="60" /> <!-- new_earring_of_hero_8_box -->
 	</instance>
 </list>
