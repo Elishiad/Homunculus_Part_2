@@ -52,118 +52,118 @@ Goddess of Destruction:
 -Очки способностей
 -Тренировочный лагерь
 
-Ertheia:
--Ertheia Race
--Alchemy
--Brooch system
--Luck system
--Auto fishing
--Dimensional Warp
+Артея:
+-Раса Артеи
+-Алхимия
+-Система брошей
+-Система удачи
+-Автоматическая рыбалка
+-Пространственная деформация
 
 Infinite Odyssey:
--Garden of Spirits
--Isabella
--Atelia Fortress
--Kelbim
--Enchanted Valley
--Ashen Shadow Revolutionaries
+Сад духов
+-Изабелла
+-Крепость Ателии
+-Кельбим
+-Зачарованная долина
+-Революционеры тени
 
 Underground:
--Underground Gainak
--Automated soulshots
--Daily rewards
--Attendance rewards
+-Подземный Кайнак
+-Автоматическое использование зарядов души и духа
+-Ежедневные награды
+-Награды за участие
 
 Helios:
--Dimensional Rift
--Dimensional Crack
--Giants Cave
--Superion Fortress
--Ramona
--Helios
--Faction system
+-Пространственный разлом
+-Пространственная трещина
+-Пещера гигантов
+-Крепость Супериона
+-Рамона
+-Хелиос
+-Система фракций
 
 Grand Crusade:
--Monster Book
--Live world map information
+-Бестиарий
+-Отображение информации на карте в реальном времени
 
 Salvation:
--New Agathion item support
--New clan system support
+-Новая поддержка предметов Агатиона
+-Поддержка новой клановой системы
 
 Etina's Fate:
--Parsed new items from client
--Artifact item support
+-Добавлены новые предметы согласно клиенту игры
+-Поддержка артефактов
 
 Fafurion: https://eu.4game.com/patchnotes/lineage2/132/
--Support for R110 items
--Spawned new areas
--Retail gatekeeper teleports
--Equipment upgrade system
+-Поддержка предметов R110
+-Появилось заселение новых областей
+-Телепортация посредством меню
+-Система апгрейда снаряжения
 
 Prelude of War: https://eu.4game.com/patchnotes/lineage2/176/
--Teleport list system
--Removed item grade penalty
--New henna system
--New starting quests
--Auto attack system
--Auto potion system
--Rank system
+-Система списка телепортов
+-Удален штраф за ранг предмета
+-Новая система henna
+-Новые стартовые квесты
+-Система автоматической атаки
+-Автоматическая система зелий
+-Ранговая система
 
 Homunculus: https://eu.4game.com/patchnotes/lineage2/206/
--Teleport favorites system
+-Система добавления телепортации в избранное из списка
 
 Homunculus Ch. 2: https://eu.4game.com/patchnotes/lineage2/270/
--New augment system
+-Новая система аугментации
 
 Events:
--Birth of Draco
--Character Birthday
--Eve the Fortune Teller
--Freya Celebration
--Gift of Vitality
--Halloween
--Happy Hours
--Heavy Medal
--Hungry Horse
--Hunt for Santa
--Letter Collector
--Lovers Jubilee
--Love your Gatekeeper
--Master of Enchanting
--The Power of Love
--Training with Dandy
--Custom Elpies Event
--Custom Rabbits Event
--Custom Race Event
--Custom Team vs Team
+-Рождение Драко
+-День рождения персонажа
+-Ева Гадалка (система карт таро)
+-Праздник Фрейи
+-Дар жизненной силы
+-Хэллоуин
+-Счастливые часы
+-Тяжелая медаль
+-Голодная лошадь
+-Охота на Санту
+-Сборщик писем
+-Юбилей влюбленных
+-Любите своего привратника
+-Мастер зачарования
+-Сила любви
+-Тренировка с Данди
+-Пользовательское событие Эльпи
+-Пользовательское событие кроликов
+-Пользовательская гонка
+-Пользовательская команда против команды
 
 Customs:
--Allowed player races
--Auto potions command
--Banking
--Champion monsters
--Classmaster
--Community board
--Faction system
--Fake players
--Find PvP
--NPC stat multipliers
--Realtime offline trade
--Password change
--Pc Cafe
--Premium system
--Private store range
--PvP announce
--PvP reward item
--PvP title color
--Random spawns
--Sayune for all
--Screen welcome message
--Sell buffs
--Starting location
--Vote reward
--Automated database backups
+-Разрешенные гонки игроков
+-Авто команда зелий
+-Банковское дело
+-Чемпионские монстры
+-Классный руководитель
+-Общественный совет
+-Система фракций
+-Поддельные игроки
+-Найти PvP
+-Множители характеристик NPC
+-Оффлайн торговля в реальном времени
+-Изменение пароля
+-Пк Кафе
+-Премиум система
+-Ассортимент частного магазина
+-PvP анонс
+-Награда за PvP
+-Цвет титула PvP
+-Случайные спавны
+-Саюне для всех
+-Приветственное сообщение на экране
+-Продать баффы
+-Начальная локация
+-Награда за голосование
+-Автоматизированное резервное копирование базы данных
 
 TODO:
--Mystic Tavern instanced zones
+-Инстансные зоны Мистической таверны
