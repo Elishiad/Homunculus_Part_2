@@ -331,6 +331,9 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="time" val="60" />
+		<set name="weight" val="0" />
 	</item>
 	<item id="80323" name="Minion's Symbol" type="EtcItem">
 		<!-- A mark that only a few of Fafurion s best minions can receive. It also indicates that they are still under Fafurion s influence. Gather the marks and take them to Lupicia at the entrance of Fafurion Temple. -->
