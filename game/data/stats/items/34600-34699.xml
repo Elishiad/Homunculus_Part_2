@@ -55,13 +55,17 @@
 	<item id="34603" name="Mysterious No-grade Soulshot" additionalName="Event" type="EtcItem">
 		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a No-grade weapon. -->
 		<set name="icon" val="icon.etc_spirit_bullet_white_i00" />
-		<set name="is_sellable" val="false" />
-		<set name="commissionItemType" val="SOULSHOT" />
 		<set name="default_action" val="SOULSHOT" />
-		<set name="etcitem_type" val="SOULSHOT" />
 		<set name="immediate_effect" val="true" />
-		<set name="is_stackable" val="true" />
 		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="handler" val="SoulShots" />
+		<set name="etcitem_type" val="SOULSHOT" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="for_npc" val="true" />
 		<skills>
 			<skill id="9293" level="1" /> <!-- Player Commendation - Soulshot (No-grade) -->
 		</skills>
@@ -165,8 +169,12 @@
 		<set name="default_action" val="SPIRITSHOT" />
 		<set name="etcitem_type" val="SOULSHOT" />
 		<set name="immediate_effect" val="true" />
-		<set name="is_stackable" val="true" />
 		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="for_npc" val="true" />
 		<skills>
 			<skill id="9300" level="1" /> <!-- Player Commendation - Blessed Spiritshot (No-grade) -->
 		</skills>

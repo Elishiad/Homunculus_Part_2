@@ -855,13 +855,14 @@
 		<set name="is_sellable" val="false" />
 		<set name="material" val="FISH" />
 		<set name="handler" val="ExtractableItems" />
+		<set name="weight" val="0" />
 		<capsuled_items>
-			<item id="47346" min="1" max="1" chance="100" /> <!-- +8 Bloody Eternal Set Pack Heavy Attack -->
-			<item id="47347" min="1" max="1" chance="100" /> <!-- +8 Bloody Eternal Set Pack Light Assassin -->
-			<item id="47348" min="1" max="1" chance="100" /> <!-- +8 Bloody Eternal Set Pack Robe Magic -->
-			<item id="47349" min="1" max="1" chance="100" /> <!-- +8 Bloody Eternal Set Pack Heavy Defense -->
-			<item id="47350" min="1" max="1" chance="100" /> <!-- +8 Bloody Eternal Set Pack Light Enchant -->
-			<item id="47351" min="1" max="1" chance="100" /> <!-- +8 Bloody Eternal Set Pack Robe Recovery -->
+			<item id="47346" min="1" max="1" chance="100" /> <!-- support_R99_1_heavy_attack_pve_box -->
+			<item id="47347" min="1" max="1" chance="100" /> <!-- support_R99_1_light_hit_pve_box -->
+			<item id="47348" min="1" max="1" chance="100" /> <!-- support_R99_1_robe_magic_pve_box -->
+			<item id="47349" min="1" max="1" chance="100" /> <!-- support_R99_1_heavy_defense_box -->
+			<item id="47350" min="1" max="1" chance="100" /> <!-- support_R99_1_light_enchant_box -->
+			<item id="47351" min="1" max="1" chance="100" /> <!-- support_R99_1_robe_recovery_pve_box -->
 		</capsuled_items>
 	</item>
 	<item id="47353" name="Rare Accessory Pack" type="EtcItem">
@@ -875,11 +876,13 @@
 		<set name="immediate_effect" val="true" />
 		<set name="handler" val="ExtractableItems" />
 		<set name="material" val="FISH" />
+		<set name="weight" val="0" />
 		<capsuled_items>
-			<item id="37667" min="1" max="1" chance="100" /> <!-- Blessed Antharas' Earring - 30-day -->
-			<item id="37668" min="1" max="1" chance="100" /> <!-- Blessed Valakas' Necklace - 30-day -->
-			<item id="37670" min="1" max="1" chance="100" /> <!-- Earth Wyrm's Heart Ring - 30-day -->
-			<item id="37669" min="1" max="1" chance="100" /> <!-- Tauti's Ring - 30-day -->
+		    <item id="36946" min="1" max="1" chance="100" /> <!-- earring_of_lind -->
+			<item id="19463" min="1" max="1" chance="100" /> <!-- blessed_earring_of_antaras -->
+			<item id="19464" min="1" max="1" chance="100" /> <!-- blessed_necklace_of_valakas -->
+			<item id="17623" min="1" max="1" chance="100" /> <!-- neckless_of_earthworm -->
+			<item id="35570" min="1" max="1" chance="100" /> <!-- ring_of_tauti -->
 		</capsuled_items>
 	</item>
 	<item id="47354" name="Emperor Shunaiman's Weapon Set Pack" type="EtcItem">
@@ -893,21 +896,22 @@
 		<set name="immediate_effect" val="true" />
 		<set name="handler" val="ExtractableItems" />
 		<set name="material" val="FISH" />
+		<set name="weight" val="0" />
 		<capsuled_items>
-			<item id="46693" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Shaper - 30-day -->
-			<item id="46694" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Dicing Death - 30-day -->
-			<item id="46695" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Slasher - 30-day -->
-			<item id="46696" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Avenger - 30-day -->
-			<item id="46697" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Fighter - 30-day -->
-			<item id="46698" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Stormer - 30-day -->
-			<item id="46699" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Thrower - 30-day -->
-			<item id="46700" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Shooter - 30-day -->
-			<item id="46701" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Buster - 30-day -->
-			<item id="46702" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Caster - 30-day -->
-			<item id="46703" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Retributer - 30-day -->
-			<item id="46704" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Dual Sword - 30-day -->
-			<item id="46705" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Dual Dagger - 30-day -->
-			<item id="46706" min="1" max="1" chance="100" /> <!-- Emperor Shunaiman's Dual Blunt Weapon - 30-day -->
+			<item id="46693" min="1" max="1" chance="100" /> <!-- npoint_weapon_dagger -->
+			<item id="46694" min="1" max="1" chance="100" /> <!-- npoint_weapon_onehand_sword -->
+			<item id="46695" min="1" max="1" chance="100" /> <!-- npoint_weapon_twohand_sword -->
+			<item id="46696" min="1" max="1" chance="100" /> <!-- npoint_weapon_onehand_blunt -->
+			<item id="46697" min="1" max="1" chance="100" /> <!-- npoint_weapon_fist -->
+			<item id="46698" min="1" max="1" chance="100" /> <!-- npoint_weapon_spear -->
+			<item id="46699" min="1" max="1" chance="100" /> <!-- npoint_weapon_bow -->
+			<item id="46700" min="1" max="1" chance="100" /> <!-- npoint_weapon_crossbow -->
+			<item id="46701" min="1" max="1" chance="100" /> <!-- npoint_weapon_onehand_magic_sword -->
+			<item id="46702" min="1" max="1" chance="100" /> <!-- npoint_weapon_onehand_magic_blunt -->
+			<item id="46703" min="1" max="1" chance="100" /> <!-- npoint_weapon_twohand_magic_blunt -->
+			<item id="46704" min="1" max="1" chance="100" /> <!-- npoint_weapon_dual_sword -->
+			<item id="46705" min="1" max="1" chance="100" /> <!-- npoint_weapon_dual_dagger -->
+			<item id="46706" min="1" max="1" chance="100" /> <!-- npoint_weapon_dual_blunt -->
 		</capsuled_items>
 	</item>
 	<item id="47355" name="Superion Support Box" type="EtcItem">
@@ -921,6 +925,23 @@
 		<set name="immediate_effect" val="true" />
 		<set name="handler" val="ExtractableItems" />
 		<set name="material" val="FISH" />
+		<set name="weight" val="0" />
+		<capsuled_items>
+			<item id="57" min="20000000000" max="20000000000" chance="100" /> <!-- adena -->
+			<item id="34989" min="1" max="1" chance="100" /> <!-- longing_talisman -->
+			<item id="35294" min="1" max="1" chance="100" /> <!-- bangel_of_tauti -->
+			<item id="36167" min="1" max="1" chance="100" /> <!-- nurka_belt -->
+			<item id="47005" min="1" max="1" chance="100" /> <!-- old_ainhasard_shirt -->
+			<item id="35715" min="1" max="1" chance="100" /> <!-- romantic_shaperon_gm_event4 -->
+			<item id="35716" min="1" max="1" chance="100" /> <!-- romantic_shaperon_gm_event5 -->
+			<item id="35717" min="1" max="1" chance="100" /> <!-- romantic_shaperon_gm_event6 -->
+			<item id="37134" min="1" max="1" chance="100" /> <!-- lindvior_support_box_henna -->
+			<item id="37353" min="1" max="1" chance="100" /> <!-- support_rare_acc_box -->
+			<item id="47352" min="1" max="1" chance="100" /> <!-- support_R99_1_armor_box -->
+			<item id="47354" min="1" max="1" chance="100" /> <!-- support_npoint_weapon_box -->
+			<item id="34603" min="20000" max="20000" chance="100" /> <!-- pccafe_g_mystic_soulshot_none -->
+			<item id="34610" min="20000" max="20000" chance="100" /> <!-- pccafe_g_mystic_spiritshot_none -->
+		</capsuled_items>
 	</item>
 	<item id="47356" name="Basic Supply Box" additionalName="Blackbird Clan" type="EtcItem">
 		<!-- A basic supply box received in exchange for helping the Blackbird Clan with their mission in the Phantasmal Ridge's Magic Circle area. Double-click to view the item. -->

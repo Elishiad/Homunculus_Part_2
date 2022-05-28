@@ -403,15 +403,26 @@
 		<set name="is_stackable" val="true" />
 		<set name="material" val="FISH" />
 	</item>
-	<item id="37134" name="Lv. 5 Legendary Dye Pack" type="EtcItem">
+	<item id="37134" name="lindvior_support_box_henna" type="EtcItem">
 		<!-- Double-click to obtain 3 of each Lv. 5 Legendary Dye Pack. -->
 		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
-		<set name="is_destroyable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="ExtractableItems" />
 		<set name="material" val="FISH" />
+		<set name="weight" val="0" />
+		<capsuled_items>
+			<item id="57" min="3" max="3" chance="100" /> <!-- box_lv5_unique_dye_men_event_kalie -->
+			<item id="36138" min="3" max="3" chance="100" /> <!-- box_lv5_unique_dye_wit_event_kalie -->
+			<item id="36139" min="3" max="3" chance="100" /> <!-- box_lv5_unique_dye_dex_event_kalie -->
+			<item id="36140" min="3" max="3" chance="100" /> <!-- box_lv5_unique_dye_con_event_kalie -->
+			<item id="36141" min="3" max="3" chance="100" /> <!-- box_lv5_unique_dye_int_event_kalie -->
+			<item id="36142" min="3" max="3" chance="100" /> <!-- box_lv5_unique_dye_str_event_kalie -->
+		</capsuled_items>
 	</item>
 	<item id="37135" name="Steel Plate Helmet (60-day)" type="Armor">
 		<!-- Full Plate Helmet with limited ability enhancement (enchantment, soul crystal enhancement and augmenting). 60-day. -->

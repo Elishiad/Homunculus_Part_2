@@ -1192,6 +1192,7 @@
 		<set name="etcitem_type" val="SOULSHOT" />
 		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="for_npc" val="true" />
 		<skills>
 			<skill id="2039" level="1" /> <!-- Soulshot (No-grade) -->
 		</skills>
